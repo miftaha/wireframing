@@ -109,7 +109,24 @@ This project showcases a high-fidelity wireframe for an Airbnb clone, offering a
 
 
 
+## Wireframing Tools
 
+Many tools are available to create wireframes, ranging from basic to highly advanced. Some popular options include:  
+
+- **Figma**  
+- Sketch  
+- Adobe XD  
+- Balsamiq  
+- Wireframe. cc  
+
+### Figma: Recommended Tool  
+Figma is a powerful, cloud-based design tool for creating wireframes, prototypes, and full-scale designs.  
+
+#### Key Features:
+1. **Collaborative Environment:** Enables real-time collaboration, allowing teams to work together seamlessly on the same wireframe.  
+2. **Cross-Platform Accessibility:** Being cloud-based, it works on any device with an internet connection.  
+3. **Extensive Design Tools:** Offers a wide range of templates, plugins, and pre-built components to speed up the wireframing process.  
+4. **Interactive Prototyping:** Supports interactive features, making it easy to simulate user flows and test functionality. 
 
 
 
