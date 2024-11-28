@@ -12,35 +12,37 @@ Wireframes serve as a foundational step in the design process, helping teams to 
 
 1. **Clarifies Ideas and Concepts**
 
-Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
+  Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
 
 2. **Facilitates Communication**
 
-It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+   It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
 
 3. **Identifies Usability Issues**
 
-By focusing on the user interface structure, wireframing helps identify potential usability issues early on. This can include navigation problems, information hierarchy issues, and interaction flaws.
+   By focusing on the user interface structure, wireframing helps identify potential usability issues early on. This can include navigation problems, information hierarchy issues, and 
+   interaction flaws.
 
 4. **Saves Time and Resources**
 
-Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
+   Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
 
 5. **Provides a Clear Layout and Structure**
 
-Wireframes provide a clear and simple representation of the layout, allowing designers to plan the content placement and prioritize elements effectively.
+   Wireframes provide a clear and simple representation of the layout, allowing designers to plan the content placement and prioritize elements effectively.
 
 6. **Enables Easy Modifications**
 
-Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.
+   Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative 
+   improvement.
 
 7. **Guides the Design Process**
 
-Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
+    Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 
 8. **Focuses on Functionality and User Experience**
 
-By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+   By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
 ---
 ## Key Elements of Wireframing
@@ -74,10 +76,36 @@ By stripping away visual design elements, wireframes allow designers to concentr
    **Example:** A wireframe might include a "Sign Up" button or a contact form in a specific section to encourage user interaction.  
 
    **Contribution:** Defines how the user interacts with the product, ensuring smooth and intuitive functionality.
+## Types of Wireframes
+
+### 1. Low-Fidelity Wireframes  
+   **Definition:** Simplified, rough sketches of a design, often created using pen and paper or basic digital tools.  
+   **Characteristics:**  
+   - Focus on layout and functionality  
+   - Lacks colors, detailed graphics, or typography  
+   - Used for brainstorming and initial concept validation  
+
+   **When to Use:**  
+   Low-fidelity wireframes are ideal during the early stages of the design process when exploring different layouts and concepts.
+
+---
+### 2. High-Fidelity Wireframes  
+   **Definition:** Detailed and polished representations of a design, often created using advanced design tools like Figma, Sketch, or Adobe XD.  
+   **Characteristics:**  
+   - Includes colors, typography, and images  
+   - Reflects the final design and user interface  
+   - Often interactive, simulating user behavior  
+
+   **When to Use:**  
+   High-fidelity wireframes are used in the later stages of the design process to present a realistic view of the product and test usability with stakeholders or users.
 
 
-
-
+### High-Fidelity Wireframe of Airbnb Clone
+This project showcases a high-fidelity wireframe for an Airbnb clone, offering an in-depth and interactive visualization of the user interface. It features realistic content, images, and interactive components that closely align with the final design.
+**Key Features:**
+- A lifelike layout and content that replicate the Airbnb user experience.
+- Comprehensive navigation elements illustrating user interactions within the application.
+- Visual design components that capture the branding and aesthetics of the intended product.
 
 
 
